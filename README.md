@@ -1,9 +1,9 @@
 ---
-title: availchet
-date: '2020-21-07'
+title: Prasad-178
+date: '2023-14-03'
 spoiler: Elaborate Realtime Readme Template
 categories: ["elaborate", "all-profile"]
-githubUsername: 'availchet'
+githubUsername: 'Prasad-178'
 ---
 
 # Hi, I'm Prasad! 👋
@@ -40,4 +40,4 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **Languages**: C, C++, Python, JavaScript
 
 ---
-⭐️ From [availchet](https://github.com/Prasad-178)
+⭐️ From [Prasad-178](https://github.com/Prasad-178)
