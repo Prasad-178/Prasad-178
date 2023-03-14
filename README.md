@@ -19,7 +19,6 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ## ⚡ Stats
 ![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad-178&hide=["issues"]&show_icons=true)
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad-178&hide=["issues"]&show_icons=true)
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: React, Redux
