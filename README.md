@@ -1,11 +1,3 @@
----
-title: Prasad-178
-date: '2023-14-03'
-spoiler: Elaborate Realtime Readme Template
-categories: ["elaborate", "all-profile"]
-githubUsername: 'Prasad-178'
----
-
 # Hi, I'm Prasad! 👋
 
 >  💻 Full-stack Software Engineer | React + Node
