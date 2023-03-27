@@ -23,7 +23,7 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **FrontEnd**: React, Redux
 - **BackEnd**: Node.js, Express, GraphQL
 - **FullStack**: Next.js
-- **UI Frameworks**: Material-UI, Bootstrap
+- **UI Frameworks**: Material-UI, Bootstrap, TailwindCSS
 - **Web technologies**: HTML5, CSS3
 - **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL
 - **Misc**: Git, Typescript
