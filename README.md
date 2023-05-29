@@ -23,7 +23,7 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **Data Science**: Statistics, Data Analysis, Data Visualization, Data Preparation
 - **Machine Learning**: CNN, ANN, Clustering Algorithms, Ensemble Algorithms, Regression, Component Analysis
 - **DS/ML Tools**: Numpy, Pandas, Matplotlib, scikit-learn Tensorflow, Keras, Excel, Cognos, SQL
-- **FrontEnd**: React.js, Redux
+- **FrontEnd**: React.js, Redux, React Native
 - **BackEnd**: Node.js, Express, GraphQL-Apollo, Flask
 - **FullStack**: Next.js
 - **UI Frameworks**: Material-UI, Bootstrap, TailwindCSS
