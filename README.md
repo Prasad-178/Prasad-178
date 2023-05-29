@@ -1,6 +1,6 @@
 # Hi, I'm Prasad! 👋
 
->  💻 Full-stack Web Developer | React + Node
+>  💻 MERN Web Developer and Aspiring Data Scientist
 
 [![Linkedin: Prasad Sankar](https://img.shields.io/badge/-Prasad%20Sankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasad-sankar-370362223/)](https://www.linkedin.com/in/prasad-sankar-370362223/)
 [![GitHub: @Prasad-178](https://img.shields.io/github/followers/Prasad-178?label=follow&style=social)](https://github.com/Prasad-178)
@@ -13,18 +13,20 @@ I always look to exceed expectations and am effective both working as an individ
 
 In my spare time, I like to listen to music :headphones:, watch anime 💻: and play video games 🎮:.
 
-I enjoy development and DSA.
+I enjoy Data Science, Machine Learning and DSA.
 If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ## ⚡ Stats
 ![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad-178&hide=["issues"]&show_icons=true)
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux
-- **BackEnd**: Node.js, Express, GraphQL
+- **Data Science**: Statistics, Data Analysis, Data Visualization, Data Preparation
+- **Machine Learning**: CNN, ANN, Clustering Algorithms, Ensemble Algorithms, Regression, Component Analysis
+- **DS Skills**: Numpy, Pandas, Matplotlib, Tensorflow, Keras, Excel, Cognos, SQL
+- **FrontEnd**: React.js, Redux
+- **BackEnd**: Node.js, Express, GraphQL-Apollo, Flask
 - **FullStack**: Next.js
 - **UI Frameworks**: Material-UI, Bootstrap, TailwindCSS
-- **Web technologies**: HTML5, CSS3
-- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL
+- **Databases**: MongoDB (Mongoose), SQL
 - **Misc**: Git, Typescript
 - **Languages**: C, C++, Python, JavaScript
