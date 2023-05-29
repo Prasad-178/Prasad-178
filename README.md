@@ -6,7 +6,7 @@
 [![GitHub: @Prasad-178](https://img.shields.io/github/followers/Prasad-178?label=follow&style=social)](https://github.com/Prasad-178)
 [![Gmail: Prasad](https://img.shields.io/badge/Gmail-prasad-red)](mailto:prasadjs178@gmail.com)
 
-I am a Full stack developer from :house: Bangalore, India.
+I am an Data Science/Machine Learning Enthusiast and MERN Developer from :house: Bangalore, India.
 
 My passion lies in solving challenging problems and developing efficient solutions.
 I always look to exceed expectations and am effective both working as an individual and as part of a team.
