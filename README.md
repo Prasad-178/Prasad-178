@@ -1,6 +1,6 @@
 # Hi, I'm Prasad! 👋
 
->  💻 Aspiring Data Scientist and MERN Developer
+>  💻 Aspiring ML Engineer and MERN Developer
 
 [![Linkedin: Prasad Sankar](https://img.shields.io/badge/-Prasad%20Sankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasad-sankar-370362223/)](https://www.linkedin.com/in/prasad-sankar-370362223/)
 [![GitHub: @Prasad-178](https://img.shields.io/github/followers/Prasad-178?label=follow&style=social)](https://github.com/Prasad-178)
