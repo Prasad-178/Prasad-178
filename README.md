@@ -18,6 +18,7 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ## ⚡ Stats
 ![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad-178&hide=["issues"]&show_icons=true)
+![LeetCode Profile](https://leetcode.com/esrevda178/)
 
 ##  🎉 Skills  🎉
 - **Data Science**: Statistics, Data Analysis, Data Visualization, Data Preparation
