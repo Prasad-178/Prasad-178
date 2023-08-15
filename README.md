@@ -21,13 +21,13 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ##  🎉 Skills  🎉
 - **Data Science**: Statistics, Data Analysis, Data Visualization, Data Preparation
-- **Machine Learning**: CNN, ANN, Clustering Algorithms, Ensemble Algorithms, Regression, Component Analysis
+- **Machine Learning**: CNN, ANN, Clustering Algorithms, Ensemble Algorithms, Regression, PCA, LDA
 - **Deep Learning**: CNNs, Object Detection, RNNs, Transformers
-- **DS/ML Tools**: Numpy, Pandas, Matplotlib, scikit-learn, Tensorflow, Keras, Excel, SQL
+- **DS/ML Tools**: Numpy, Pandas, Matplotlib, Seaborn, sklearn, Tensorflow, Keras, Excel, SQL
 - **FrontEnd**: React.js, Redux, React Native
-- **BackEnd**: Node.js, Express, GraphQL-Apollo, Flask
+- **BackEnd**: Node.js, Express, GraphQL, Flask
 - **FullStack**: Next.js
 - **UI Frameworks**: Material-UI, Bootstrap, TailwindCSS
 - **Databases**: MongoDB, SQL
-- **Misc**: Git
+- **Misc**: Git, Vite
 - **Languages**: C, C++, Python, Java, JavaScript, TypeScript
