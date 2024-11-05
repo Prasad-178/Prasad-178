@@ -1,5 +1,5 @@
 # Hi, I'm Prasad! 👋
->  💻 Machine Learning Engineer and Computer Vision Researcher
+>  💻 Machine Learning Engineer and Researcher
 
 [![Linkedin: Prasad Sankar](https://img.shields.io/badge/-Prasad%20Sankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasadsankar178/)](https://www.linkedin.com/in/prasadsankar178/)
 [![GitHub: @Prasad-178](https://img.shields.io/github/followers/Prasad-178?label=follow&style=social)](https://github.com/Prasad-178)
@@ -7,9 +7,9 @@
 
 I'm a Machine Learning practitioner and researcher from :house: Bengaluru, India. Currently pursuing my B.Tech in CSE at IIIT Sri City, I'm passionate about solving challenging problems in Deep Learning, Computer Vision, and Natural Language Processing.
 
-My experience spans from ML Research at Aalborg University to Data Science at ISRO, and now as an ML Engineer at Burni Consulting. I love working on innovative projects that push the boundaries of AI technology.
+My experience spans from ML Research at Aalborg University to Data Science at ISRO, and now as an AI Engineer at Burni Consulting. I love working on innovative projects that push the boundaries of AI technology.
 
-In my spare time, I enjoy competitive programming, participating in hackathons, and contributing to open-source projects. I'm always eager to collaborate on exciting ML/AI projects and research initiatives.
+In my spare time, I enjoy working on self-projects, participating in hackathons, and exploring new domains. I'm always eager to collaborate on exciting AI projects and research initiatives.
 
 Feel free to reach out if you want to discuss ideas or collaborate on projects! 😄
 
