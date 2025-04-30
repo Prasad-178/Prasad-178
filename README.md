@@ -35,9 +35,8 @@ Feel free to reach out if you want to discuss ideas or collaborate on projects! 
 
 ## 🏆 Achievements
 - Amazon ML Summer School 2023 Scholar
-- 1st place in Flipr Hackathon 18
-- Ranked 76th out of 1300 teams in ICPC Regionals 2022
-- 1st place in Server Surfers competition
+- 1st place at ETHIndia (4 tracks in Coinbase and Base)
+- ICPC Regionalist 2022
 
 ## 📚 Education
 - B.Tech in CSE, IIIT Sri City (2021-2025)
