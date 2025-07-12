@@ -2,7 +2,6 @@
 >  💻 Software Engineer - Machine Learning @ Stealth
 
 [![Linkedin: Prasad Sankar](https://img.shields.io/badge/-Prasad%20Sankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasadsankar178/)](https://www.linkedin.com/in/prasadsankar178/)
-[![GitHub: @Prasad-178](https://img.shields.io/github/followers/Prasad-178?label=follow&style=social)](https://github.com/Prasad-178)
 [![Gmail: Prasad](https://img.shields.io/badge/Gmail-prasad-red)](mailto:prasadjs178@gmail.com)
 
 I'm a Machine Learning practitioner from :house: Bengaluru, India. I'm passionate about solving problems in AI and am currently building in stealth.
