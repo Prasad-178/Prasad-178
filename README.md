@@ -29,7 +29,3 @@ Feel free to reach out if you want to discuss ideas or collaborate on projects! 
 ## 📚 Education
 - B.Tech in CSE, IIIT Sri City (2021-2025)
 - CBSE Class 12 - 95.6%
-
-## 📫 How to reach me
-- Email: prasadjs178@gmail.com
-- LinkedIn: [Prasad Sankar]([https://www.linkedin.com/in/prasad-sankar-370362223/](https://www.linkedin.com/in/prasadsankar178/))
