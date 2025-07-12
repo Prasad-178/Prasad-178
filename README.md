@@ -33,4 +33,3 @@ Feel free to reach out if you want to discuss ideas or collaborate on projects! 
 ## 📫 How to reach me
 - Email: prasadjs178@gmail.com
 - LinkedIn: [Prasad Sankar]([https://www.linkedin.com/in/prasad-sankar-370362223/](https://www.linkedin.com/in/prasadsankar178/))
-- LeetCode: [Prasad's LeetCode Profile](https://leetcode.com/u/esrevda178/)
