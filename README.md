@@ -1,30 +1,104 @@
-# Hi, I'm Prasad! 👋
->  💻 Software Engineer - Machine Learning @ Stealth
+# Hey, I'm Prasad 👋
 
-[![Linkedin: Prasad Sankar](https://img.shields.io/badge/-Prasad%20Sankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasadsankar178/)](https://www.linkedin.com/in/prasadsankar178/)
-[![Gmail: Prasad](https://img.shields.io/badge/Gmail-prasad-red)](mailto:prasadjs178@gmail.com)
+**Software Engineer specializing in privacy-first, on-device intelligence**
 
-I'm a Machine Learning practitioner from :house: Bengaluru, India. I'm passionate about solving problems in AI and am currently building in stealth.
+[![Portfolio](https://img.shields.io/badge/Portfolio-prasadjs.me-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prasadjs.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasadsankar178/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prasadjs178)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadjs178@gmail.com)
 
-My experience spans from ML Research at Aalborg University to Data Science at ISRO, and now as an Software Engineer (ML) at a Stealth Startup. I love working on innovative projects that push the boundaries of AI or Web3 technology.
+---
 
-In my spare time, I enjoy working on personal projects, participating in hackathons, and exploring new domains. I'm always eager to collaborate on exciting projects and research initiatives.
+### 🧠 What I'm Working On
 
-Feel free to reach out if you want to discuss ideas or collaborate on projects! 😄
+Currently owning the **entire on-device AI stack** at a stealth startup — building privacy-first mobile ML systems where zero data leaves the device.
+I'm also exploring vLLM and distributed inference on AWS
 
-## ⚡ Stats
-![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad-178&hide=["issues"]&show_icons=true)
+```
+SLMs → Inference Optimization → KV Caching → RAG → Agentic Frameworks → STT/TTS
+```
 
-## 🚀 Experience
-- **Software Engineer - Machine Learning** @ Stealth Startup (Aug 2024 - Present)
-- **Data Science Intern** @ ISRO (May 2024 - Jul 2024)
-- **ML Research Intern** @ Aalborg University (Dec 2023 - Jan 2024)
+**Tech I'm deep in:** Model quantization (GPTQ, GGUF), agent orchestration, RAG systems, scalable inference
 
-## 🏆 Achievements
-- 6x hackathon winner (incl. ETHIndia, GAIA AI Hackathon, Arweave Hacker House)
-- Amazon ML Summer School Scholar
-- ICPC Regionalist
+---
 
-## 📚 Education
-- B.Tech in CSE, IIIT Sri City (2021-2025)
-- CBSE Class 12 - 95.6%
+### 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **SWE (AI)** | Stealth Startup | Aug 2024 → Present |
+| **Data Science Intern** | ISRO | May 2024 → Aug 2024 |
+| **Research Intern** | Aalborg University | Dec 2023 → Jan 2024 |
+
+---
+
+### 🏆 Highlights
+
+- **6x Hackathon Winner** — ETH India '24, Arweave Hacker House, GAIA AI Hackathon
+- **3 Research Papers** — IEEE CVMI, ICBBB 2025, + 1 under review
+- **Amazon ML Summer School** Scholar
+- **ICPC Regionalist**
+
+---
+
+### 🔬 Research
+
+| Paper | Venue | Status |
+|-------|-------|--------|
+| Performance Analysis of 2D Feature Descriptors for Object Classification | IEEE CVMI | ✅ Published |
+| K-Mer Based DNA Sequence Representation for Viral Disease Prediction | ICBBB 2025 | ✅ Published |
+| Combination of HOG with Local Descriptors for Scene Classification | — | 📝 Under Review |
+
+---
+
+### 🛠️ Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://x.com/permasign_arw">
+        <b>PermaSign</b> 🏆
+      </a>
+      <br/>
+      <sub>Decentralized DocuSign for organizations</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://devfolio.co/projects/revers-9dc7">
+        <b>Retrace</b> 🏆
+      </a>
+      <br/>
+      <sub>4x track winner @ ETH India 2024</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Prasad-178/mlops">
+        <b>FastInfer</b>
+      </a>
+      <br/>
+      <sub>GPU inference on AWS with vLLM, Terraform, CI/CD</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Prasad-178/metaextract">
+        <b>MetaExtract</b>
+      </a>
+      <br/>
+      <sub>Metadata extraction tool</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Education
+
+**IIIT Sri City** — B.Tech in Computer Science  
+*2021 → 2025 • GPA: 8.79*
+
+---
+
+<p align="center">
+  <i>Let's build something together!</i>
+  <br/><br/>
+  <a href="https://prasadjs.me">prasadjs.me</a>
+</p>
