@@ -18,7 +18,7 @@ I'm also exploring vLLM and distributed inference on AWS
 SLMs → Inference Optimization → KV Caching → RAG → Agentic Frameworks → STT/TTS
 ```
 
-**Tech I'm deep in:** Model quantization (GPTQ, GGUF), agent orchestration, RAG systems, scalable inference
+**Tech I'm deep in:** Agent orchestration, RAG systems, scalable inference and distributed systems
 
 ---
 
