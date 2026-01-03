@@ -96,9 +96,3 @@ SLMs → Inference Optimization → KV Caching → RAG → Agentic Frameworks �
 *2021 → 2025 • GPA: 8.79*
 
 ---
-
-<p align="center">
-  <i>Let's build something together!</i>
-  <br/><br/>
-  <a href="https://prasadjs.me">prasadjs.me</a>
-</p>
