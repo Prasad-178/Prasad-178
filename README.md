@@ -79,11 +79,11 @@ SLMs → Inference Optimization → KV Caching → RAG → Agentic Frameworks �
       <sub>GPU inference on AWS with vLLM, Terraform, CI/CD</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Prasad-178/metaextract">
-        <b>MetaExtract</b>
+      <a href="https://github.com/Prasad-178/flux">
+        <b>Flux</b>
       </a>
       <br/>
-      <sub>Metadata extraction tool</sub>
+      <sub>Autoscaling LLM inference architecture using Redix, k8s, KEDA, llama.cpp</sub>
     </td>
   </tr>
 </table>
