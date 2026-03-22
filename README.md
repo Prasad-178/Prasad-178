@@ -122,6 +122,8 @@ Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-
 
 - [**the control plane for llm inference**](https://prasadjs.me/blog/llm-inference) — Event-driven inference, Redis queuing, token streaming, KEDA autoscaling
 - [**how I manage stacked branches**](https://prasadjs.me/blog/stacked-branches) — Cherry-pick vs rebase workflows for dependent branches
+- [**i built private vector search**](https://prasadjs.me/blog/private-vector-search) — Building fully encrypted vector search while balancing latency-recall tradeoffs
+- [**efficient tool selection with SLMs**](https://prasadjs.me/blog/slm-tool-calling) — Optimizing tool selection for on-device agentic AI, from ~3s to ~15ms.
 
 ---
 
