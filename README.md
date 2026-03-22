@@ -11,11 +11,7 @@
 
 ### 🧠 What I'm Working On
 
-Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-device inference, post-quantum cryptography, and zero-knowledge proofs. Previously co-founded a web3 startup scaled to 5 paying B2B clients.
-
-```
-On-Device AI → Post-Quantum Crypto → ZK Proofs → FHE → Agentic Frameworks → Distributed Inference
-```
+Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-device inference, post-quantum cryptography, and zero-knowledge proofs. Previously co-founded a web3 startup scaled to 5 paying B2B clients. Building a privacy-preserving vector search engine.
 
 **Tech I'm deep in:** Agent orchestration, RAG systems, scalable inference, ZK/FHE, and distributed systems
 
@@ -34,11 +30,10 @@ On-Device AI → Post-Quantum Crypto → ZK Proofs → FHE → Agentic Framework
 
 ### 🏆 Highlights
 
-- **7x Hackathon Winner** — ETH India '24, Arweave Hacker House, GAIA AI Hackathon
-- **Co-founded PermaSign** — Scaled to 5 paying B2B clients, selected for Arweave Fellowship
+- **7x Hackathon Winner** — including ETH India '24, Arweave Hacker House, GAIA AI Hackathon
 - **3 Research Papers** — IEEE CVMI, ICBBB 2025, + 1 under review
-- **Amazon ML Summer School** Scholar
 - **ICPC Regionalist**
+- **Amazon ML Summer School** Scholar
 
 ---
 
@@ -51,7 +46,7 @@ On-Device AI → Post-Quantum Crypto → ZK Proofs → FHE → Agentic Framework
         <b>Opaque</b>
       </a>
       <br/>
-      <sub>Privacy-preserving vector search using FHE (CKKS) — 96% Recall@10, 190ms latency</sub>
+      <sub>Privacy-preserving vector search using FHE (CKKS) - 99% recall@10 on 1M vectors</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://x.com/permasign_arw">
