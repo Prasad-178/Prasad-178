@@ -11,7 +11,7 @@
 
 ### 🧠 What I'm Working On
 
-Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-device inference, post-quantum cryptography, and zero-knowledge proofs. Previously co-founded a web3 startup scaled to 5 paying B2B clients. Building a privacy-preserving vector search engine.
+Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-device inference, post-quantum cryptography, and zero-knowledge proofs. Previously co-founded a web3 startup scaled to 5 paying B2B clients. Building **Opaque** — privacy-preserving vector search via FHE (CKKS), 99% recall@10 on 1M vectors.
 
 **Tech I'm deep in:** Agent orchestration, RAG systems, scalable inference, ZK/FHE, and distributed systems
 
@@ -90,18 +90,18 @@ Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Prasad-178/mlops">
-        <b>FastInfer</b>
+      <a href="https://github.com/Prasad-178/reps">
+        <b>Reps</b>
       </a>
       <br/>
-      <sub>Async LLM inference API — vLLM + Redis on hybrid ECS/EC2 GPU with Terraform</sub>
+      <sub>Agentic interview rehearsal CLI — 4 specialized agents, ELO-tracked, reads your shipped work</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Prasad-178/void">
-        <b>Void</b>
+      <a href="https://github.com/Prasad-178/prism">
+        <b>Prism</b>
       </a>
       <br/>
-      <sub>ZK-proof compliance on Solana — prove you're NOT on a sanctions list without revealing your wallet</sub>
+      <sub>Career-data refractor — one canonical store, outputs resume / LinkedIn / README / site</sub>
     </td>
   </tr>
 </table>
@@ -130,6 +130,5 @@ Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-
 ### 🎓 Education
 
 **IIIT Sri City** — B.Tech in Computer Science
-*2021 → 2025 • GPA: 8.79*
 
 ---
