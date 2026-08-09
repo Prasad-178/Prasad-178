@@ -3,15 +3,19 @@
 **Founding Engineer building at the intersection of AI and web3**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prasadjs.me-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prasadjs.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasadsankar178/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prasadjs178)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadjs178@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@prasadjs.me)
 
 ---
 
 ### 🧠 What I'm Working On
 
-Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-device inference, post-quantum cryptography, and zero-knowledge proofs. Previously co-founded a web3 startup scaled to 5 paying B2B clients. Building **Opaque** — privacy-preserving vector search via FHE (CKKS), 99% recall@10 on 1M vectors.
+Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-device inference, post-quantum cryptography, and zero-knowledge proofs.
+
+On the side, two things I care about:
+
+- **[Opaque](https://github.com/Prasad-178/opaque)** — privacy-preserving vector search over *encrypted* vectors using threshold CKKS homomorphic encryption. **99.8% Recall@10 at 464ms on 1M vectors**, on a commodity 8-vCPU AWS box — and 98% recall at 814ms on 2M. Faster at scale than Compass (OSDI '25), RemoteRAG (ACL '25), PPMI, and SANNS (USENIX '20).
+- **[Kairo](https://meetkairo.xyz)** — an on-screen AI tutor for creative software. It watches your screen and teaches you the tool while you use it. It points; you act.
 
 **Tech I'm deep in:** Agent orchestration, RAG systems, scalable inference, ZK/FHE, and distributed systems
 
@@ -46,8 +50,17 @@ Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-
         <b>Opaque</b>
       </a>
       <br/>
-      <sub>Privacy-preserving vector search using FHE (CKKS) - 99% recall@10 on 1M vectors</sub>
+      <sub>Vector search over encrypted vectors via threshold CKKS FHE — 99.8% Recall@10 at 464ms on 1M vectors, 8-vCPU AWS</sub>
     </td>
+    <td align="center" width="50%">
+      <a href="https://meetkairo.xyz">
+        <b>Kairo</b>
+      </a>
+      <br/>
+      <sub>The on-screen AI tutor for creative software — watches your screen and teaches the tool while you use it</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://x.com/permasign_arw">
         <b>PermaSign</b>
@@ -55,8 +68,6 @@ Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-
       <br/>
       <sub>Decentralized e-Signature platform for early-stage startups — scaled to 5 paying B2B clients</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://devfolio.co/projects/revers-9dc7">
         <b>Retrace</b>
@@ -64,21 +75,14 @@ Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-
       <br/>
       <sub>Reversible DeFi transactions via DAO-governed wrapped ERC-20 — 4x winner @ ETH India 2024</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Prasad-178/flux">
         <b>Flux</b>
       </a>
       <br/>
       <sub>Autoscaling LLM inference with Kubernetes, Redis, KEDA, and WebSocket token streaming</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://kalshitimes.com">
-        <b>Kalshi Times</b>
-      </a>
-      <br/>
-      <sub>AI-powered newspaper from prediction markets — trade directly on articles via DFlow on Solana</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://usecloak.xyz">
@@ -90,18 +94,18 @@ Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-
   </tr>
   <tr>
     <td align="center" width="50%">
+      <a href="https://kalshitimes.com">
+        <b>Kalshi Times</b>
+      </a>
+      <br/>
+      <sub>AI-powered newspaper from prediction markets — trade directly on articles via DFlow on Solana</sub>
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/Prasad-178/reps">
         <b>Reps</b>
       </a>
       <br/>
       <sub>Agentic interview rehearsal CLI — 4 specialized agents, ELO-tracked, reads your shipped work</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Prasad-178/prism">
-        <b>Prism</b>
-      </a>
-      <br/>
-      <sub>Career-data refractor — one canonical store, outputs resume / LinkedIn / README / site</sub>
     </td>
   </tr>
 </table>
@@ -120,10 +124,12 @@ Building **privacy-first AI + web3 infrastructure** at a stealth startup — on-
 
 ### ✍️ Blog
 
-- [**the control plane for llm inference**](https://prasadjs.me/blog/llm-inference) — Event-driven inference, Redis queuing, token streaming, KEDA autoscaling
-- [**how I manage stacked branches**](https://prasadjs.me/blog/stacked-branches) — Cherry-pick vs rebase workflows for dependent branches
+- [**handing off data without trusting anyone**](https://prasadjs.me/blog/secure-data-handoff) — Moving sensitive data device-to-device with no server: post-quantum in transit, provable, revocable
+- [**how LoRA actually scales**](https://prasadjs.me/blog/lora-scaling) — Serving thousands of LoRA adapters off one base model, without ever merging weights
+- [**why most agents are poorly built**](https://prasadjs.me/blog/poorly-built-agents) — What makes agents glorified chatbots, and how to actually fix it
+- [**efficient tool selection with SLMs**](https://prasadjs.me/blog/slm-tool-calling) — Optimizing tool selection for on-device agentic AI, from ~3s to ~15ms
 - [**i built private vector search**](https://prasadjs.me/blog/private-vector-search) — Building fully encrypted vector search while balancing latency-recall tradeoffs
-- [**efficient tool selection with SLMs**](https://prasadjs.me/blog/slm-tool-calling) — Optimizing tool selection for on-device agentic AI, from ~3s to ~15ms.
+- [**the control plane for llm inference**](https://prasadjs.me/blog/flux) — Event-driven inference, Redis queuing, token streaming, KEDA autoscaling
 
 ---
 
